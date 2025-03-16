@@ -97,7 +97,7 @@
     </style>
 </head>
 <body>
-    <h1>Thank You!</h1>
+    <h1>Thank You</h1>
     <p>Your support means the world to us. We appreciate your time and effort.</p>
     <a href="index.html" class="button">Go Back Home</a>
 </body>
