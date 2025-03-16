@@ -1,5 +1,5 @@
 
- <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -25,7 +25,7 @@
             animation: slideIn 1s ease-in-out;
             margin-bottom: 20px;
         }
-        p {
+       p {
             font-size: 1.2em;
             opacity: 0;
             animation: fadeInUp 1s ease-in-out forwards;
