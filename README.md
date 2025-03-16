@@ -99,6 +99,6 @@
 <body>
     <h1>Thank You</h1>
     <p>Your support means the world to us. We appreciate your time and effort.</p>
-    <a href="index.html" class="button">Go Back Home</a>
+    <a href="https://suman-mehta.github.io/My-website-/" class="button">Go Back Home</a>
 </body>
 </html>
